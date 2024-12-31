@@ -6,6 +6,7 @@
 - `Admin APP`
 - `Monitoring`
 - `Logging`
+- `Testing`
 
 ### User
 - `User Register`
