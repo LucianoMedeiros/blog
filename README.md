@@ -1,13 +1,11 @@
 
-# Blog Project
-
-> **Objective**: Demonstrate knowledge through a pilot project.
-
 ## Roadmap
 
 ### General
 - `Client APP`
 - `Admin APP`
+- `Monitoring`
+- `Logging`
 
 ### User
 - `User Register`
